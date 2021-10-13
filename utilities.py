@@ -22,6 +22,6 @@ def k_dice():
 
 #ping test
 @commands.command()
-    async def ping(self, ctx):
+async def ping(self, ctx):
         ping = int(self.client.latency * 100)
         await ctx.send(':ping_pong: Pong! (In {}ms)'.format(str(ping)))
