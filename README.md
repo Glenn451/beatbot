@@ -19,6 +19,9 @@ Bot is capable of running on multiple Discord servers at the same time, however 
 
 The intention is to update this bot with some additional utilities related to Discord server role management so that you can automate role assignment based on reacting to messages sent by the bot.
 
+Commands use the ">" prefix currently, can be changed manually in beatbotmain.py - will consider future update to allow server specific command prefix and the ability to change it from within discord.
+
+
 Special thanks to <a href='https://github.com/xavierjenkins99'>xavierjenkins99</a> for code review, editing contributions, and testing.
 
 
