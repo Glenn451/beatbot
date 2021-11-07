@@ -18,3 +18,7 @@ Replace the token in the file config/secrets_template.json with your own bot's t
 Bot is capable of running on multiple Discord servers at the same time, however you would need to make it so that people can invite it and provision enough resources for that to happen. That will also result in increased costs from hosting (bandwidth mostly), so be careful about letting anyone invite your hosted bot.
 
 The intention is to update this bot with some additional utilities related to Discord server role management so that you can automate role assignment based on reacting to messages sent by the bot.
+
+Licensed under GPL3.
+
+Special thanks to <a href='https://github.com/xavierjenkins99'>xavierjenkins99</a> for code review, editing contributions, and testing.
