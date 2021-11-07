@@ -12,7 +12,8 @@ Requirements:
   * FFMPEG
   * PyNaCl
 
-Replaced the token in the file config/secrets_template.json with your own bot's token and then rename the file to "secrets.json"
+I'm assuming that you can figure out how register a bot on discord and set it up yourself. There are plenty of resources online covering that.
+Replace the token in the file config/secrets_template.json with your own bot's token and then rename the file to "secrets.json"
 
 Bot is capable of running on multiple Discord servers at the same time, however you would need to make it so that people can invite it and provision enough resources for that to happen. That will also result in increased costs from hosting (bandwidth mostly), so be careful about letting anyone invite your hosted bot.
 
